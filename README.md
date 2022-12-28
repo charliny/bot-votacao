@@ -1,4 +1,4 @@
-# bot-votacao
+# Bot de Votacao em Python
 Bot simples de votação para o realite Corrida das Blogueiras, desenvolvido em Python.
 
 ## Como rodar:
